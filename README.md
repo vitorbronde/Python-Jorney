@@ -1,4 +1,4 @@
-# Python course
+# Python Jorney
 A serie of classes and material about Python that I had collected along these years.
 I am preparing they in a better way to everyone understand and uploading here.
 
